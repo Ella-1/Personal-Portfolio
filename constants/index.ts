@@ -83,7 +83,7 @@ export const Skill_data = [
 export const Socials = [
   {
     name: "twitter",
-    src: "/twitter.svg",
+    src: "/twitter2.svg",
     url: "https://twitter.com/Prof_Bata"
 
   },
